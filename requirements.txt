@@ -1,7 +1,7 @@
 atom==0.4.3
 gunicorn
 certifi==2018.8.24
-Django==1.11.10
+Django==2.2.24
 Pillow==7.0.0
 pytz==2019.3
 wincertstore==0.2
